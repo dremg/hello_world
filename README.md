@@ -1,4 +1,4 @@
-This is a foray into learning a Version Control System (VCS), specifically the GitHub VCS.
+This is a foray into learning a Version Control System (VCS), specifically the GitHub VCS, to place the code I develop in a location where I and others may see and use it.
 
 By the completion of this simple GitHub tutorial, a user should be able to articualte and 
 demonstrate the following concepts, using GitHub:
